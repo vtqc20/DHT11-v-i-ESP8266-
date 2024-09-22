@@ -1,0 +1,7 @@
+2. Phần cứng
+ESP8266 (NodeMCU)
+Cảm biến DHT11
+Điện thoại hoặc máy tính bảng cài ứng dụng Blynk
+3. Thư viện cần cài đặt
+Thư viện Blynk: Có thể cài đặt trực tiếp từ Arduino IDE (Sketch > Include Library > Manage Libraries > Tìm kiếm "Blynk").
+Thư viện DHT Sensor: Tương tự, cài đặt từ Arduino IDE (Sketch > Include Library > Manage Libraries > Tìm kiếm "DHT sensor library").
